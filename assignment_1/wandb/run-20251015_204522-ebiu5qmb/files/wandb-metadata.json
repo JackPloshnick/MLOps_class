@@ -1,0 +1,26 @@
+{
+  "os":  "macOS-10.16-x86_64-i386-64bit",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2025-10-16T00:45:22.120204Z",
+  "program":  "<python with no main file>",
+  "git":  {
+    "remote":  "https://github.com/JackPloshnick/MLOps_class.git",
+    "commit":  "43b7bbd1c4344eb600aef4e1f44f2655c12097d8"
+  },
+  "email":  "jploshnick@uchicago.edu",
+  "root":  "/Users/jackploshnick/Documents/MLOps_class/assignment_1",
+  "host":  "Jacks-MacBook-Pro.local",
+  "executable":  "/opt/anaconda3/bin/python",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "499963174912",
+      "used":  "167525711872"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "writerId":  "92xdptufx8zhz5z8ev60rnkdltwdk2aw"
+}
