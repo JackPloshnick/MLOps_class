@@ -1,0 +1,36 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            wsuwr1wj91dnr6thayyfweq56p3ws77g:
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "499963174912"
+                        used: "167415685120"
+                email: jploshnick@uchicago.edu
+                executable: /opt/anaconda3/bin/python
+                git:
+                    commit: 43b7bbd1c4344eb600aef4e1f44f2655c12097d8
+                    remote: https://github.com/JackPloshnick/MLOps_class.git
+                host: Jacks-MacBook-Pro.local
+                memory:
+                    total: "17179869184"
+                os: macOS-10.16-x86_64-i386-64bit
+                program: <python with no main file>
+                python: CPython 3.12.4
+                root: /Users/jackploshnick/Documents/MLOps_class/assignment_1
+                startedAt: "2025-10-16T00:41:18.867929Z"
+                writerId: wsuwr1wj91dnr6thayyfweq56p3ws77g
+        m: []
+        python_version: 3.12.4
+        t:
+            "3":
+                - 2
+            "4": 3.12.4
+            "5": 0.22.2
+            "8":
+                - 1
+            "12": 0.22.2
+            "13": darwin-x86_64
